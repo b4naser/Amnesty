@@ -1,0 +1,81 @@
+{"items": [
+    {
+        "id": 0,
+        "image": {
+            "file": "coin.png",
+            "x": 0,
+            "y": 0
+        },
+        "name": "Złoto",
+        "type": "coin",
+        "value": 50
+    },
+    {
+        "id": 1,
+        "image": {
+            "file": "items.png",
+            "x": 8,
+            "y": 152
+        },
+        "name": "Zwykły miecz",
+        "type": "weapon",
+        "desc": "Miecz jak miecz, każdy widzi.",
+        "stats": {
+            "str": 10,
+            "agi": 10,
+            "int": 10
+        },
+        "value": 50
+    },
+    {
+        "id": 2,
+        "image": {
+            "file": "items.png",
+            "x": 56,
+            "y": 152
+        },
+        "name": "XXX",
+        "type": "weapon",
+        "desc": "XXX",
+        "stats": {
+            "str": 10,
+            "agi": 10,
+            "int": 10
+        },
+        "value": 50
+    },
+        {
+        "id": 3,
+        "image": {
+            "file": "items.png",
+            "x": 200,
+            "y": 152
+        },
+        "name": "XXX",
+        "type": "weapon",
+        "desc": "XXX",
+        "stats": {
+            "str": 10,
+            "agi": 10,
+            "int": 10
+        },
+        "value": 50
+    },
+        {
+        "id": 4,
+        "image": {
+            "file": "items.png",
+            "x": 248,
+            "y": 152
+        },
+        "name": "XXX",
+        "type": "weapon",
+        "desc": "XXX",
+        "stats": {
+            "str": 10,
+            "agi": 10,
+            "int": 10
+        },
+        "value": 50
+    }
+]}

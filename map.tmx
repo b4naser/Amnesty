@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="dungeon_by_world_of_noel-d5uawc432z32" tilewidth="32" tileheight="32" tilecount="680">
+  <image source="media/dungeon_by_world_of_noel-d5uawc432z32.png" width="1088" height="640"/>
+ </tileset>
+ <layer name="Non collision" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyt08dOVAEUBmDmGUABO76DXeyJ+gSoqIAtAQRB3NrdMRQbW7DuYAxgwLJX2VBCiYq8A4gU+0fghsl4MzOS+ZMvOffMPf/qTlZW5lNOBZVcpIpqLlFDLZep40oaffVEaaCRJpq5yz3u84CHtKTR104HMV7E7bvojnvuoZdXvOYNb0P6+hlgkKG4/Qijcc8f+cRnxvnCREjfJFN8ZZpvzDDLHPN85wc/+cVv/iwcR/7ty7bLYRWrySWPfNawlnWsZwMb2UQBm0P6tthtZRvb2cFOdrGbQvawl33s5wAHORTSV2R3jOOcoJiTnOI0JZRSxhnOco7zXAjpS8xV71zjOje4yS1ucyeN+8S0umnjEY95wlOe8XwFfUGCbyNTCb6N/03dkne8X5oX/s9HI4uqEn77QF/ITZDDbo5Elu9XKki5uYLKDPXVm6M0pHi/ky66eZmkr93cQSxF3zAjjDKWpK/fPMBgir4ZZpljPklfJvMXgMV0TA==
+  </data>
+ </layer>
+ <layer name="Collision" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy107lOAlEUgOE7vgCJhQsKvSWJnT2gKEpAfAR9ARXU1rW1UEDpWKXRRCtxK1xwaTTRzlfwEfwnMvGETMZhcj3Jl9zL3PyhOWGlVARRjGMCMUxiCnFMYwYJFJFECrNIYw5jbQuq+1nEEpaRQVb0djz09rCPHPIoiF7D5v0xTsT9FGcO/abovdh8f8WbuL/jw6H3KXpfDu/cjuz1Gnp7o5p7aQ29eeO3l+GcxQpWseaiv86bDWxiC9uil+dcwAEOUXTRq/CmihrqOBK9c85NXOASV7jGjeiO4Jb7He7xgBYe8YRn0Qurn/0todw+W/tsTUx8N/e6gmrHb+Ze15T9fngdn2G/H14nZOjZD2t8mnu6/99/9Mz96OtRqh8DGIQfQxhGAME/WO928Q0vfUif
+  </data>
+ </layer>
+</map>
